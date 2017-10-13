@@ -1,4 +1,0 @@
-ciera.io
-================
-
-Ciera website
